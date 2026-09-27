@@ -27,6 +27,8 @@ To complete this task, open the project in Unity. To do this:
 4. Navigate to and select the root folder of the project repository you’ve downloaded
 5. The project should now appear in Unity (it may take some time to load the first time)
 
+* It is okay to change the version number of the project * 
+
 ## Task 2: Running a Unity Scene
 
 After the project has finished loading, a warehouse-like environment containing multiple robots should appear in the Scene View. If the scene does not appear, navigate to the ‘Scenes’ folder in the project browser at the bottom of the UI and double-click on the file named ‘RobotLab’.
