@@ -15,7 +15,7 @@ To get started, make a copy of this repository on your GitHub account and clone 
 
 - Signing into GitHub
 - Clicking the "Use this template" button at the top-right on the page
-- Following the instructions in the week 1 section of the VLE to clone a repository onto your local computer
+- Following the instructions in the introduction section of the VLE to clone a repository onto your local computer
 
 The repository contains a complete Unity project. Look inside the folder. You will see that it contains a hierarchy of files and folders, which each store information about different aspects of an Interactive Environment. 
 
