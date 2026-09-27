@@ -69,8 +69,8 @@ In the lecture, you saw how to add components to a Game Object. To complete this
 1. Create a new game object using a sphere primitive (Game Object → 3D Object → Sphere)
 2. Rename the new object to be called ‘Bouncy Ball’
 3. Add a ‘Rigidbody’ physics component to the object, so that it obeys the laws of physics (Add Component → Physics → Rigidbody)
-4. Create a new ‘Physic Material’ (Assets → Create → Physic Material) and set its bounciness to 1
-5. Assign your physic material to your sphere’s ‘Sphere Collider’
+4. Create a new ‘Physics Material’ (Assets → Create → Physics Material) and set its bounciness to 1
+5. Assign your physics material to your sphere’s ‘Sphere Collider’
 
 Press play, and observe whether your sphere interacts with the environment as expected. Does the ball keep bouncing or come to a stop? Can the physic material be altered to make the ball bounce forever?
 
