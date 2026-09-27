@@ -27,7 +27,7 @@ To complete this task, open the project in Unity. To do this:
 4. Navigate to and select the root folder of the project repository you’ve downloaded
 5. The project should now appear in Unity (it may take some time to load the first time)
 
-* It is okay to change the version number of the project * 
+** It is okay to change the version number of the project ** 
 
 ## Task 2: Running a Unity Scene
 
