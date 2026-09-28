@@ -23,7 +23,7 @@ To complete this task, open the project in Unity. To do this:
 
 1. Open the ‘Unity Hub’ application (try searching for it using spotlight if you can't find it)
 2. Login to your Unity ID account or create one if you don't have it
-3. Click the ‘Open’ button in the window that appears
+3. In the Project tab, click Add > Add project from disk 
 4. Navigate to and select the root folder of the project repository you’ve downloaded
 5. The project should now appear in Unity (it may take some time to load the first time)
 
